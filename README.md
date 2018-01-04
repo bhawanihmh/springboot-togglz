@@ -12,14 +12,14 @@ http://localhost:8090/togglztest/index
 ##  Logs:
 
 @@@@@@@@@@@@  TogglzController.index()  @@@@@@@@@@@@@
-@@@@@@@@@   FEATURE_ONE Disable
-@@@@@@@@@   FEATURE_TWO Disable
+<br />@@@@@@@@@   FEATURE_ONE Disable
+<br />@@@@@@@@@   FEATURE_TWO Disable
 
 ====================================
 
-@@@@@@@@@@@@  TogglzController.index()  @@@@@@@@@@@@@
-@@@@@@@@@   FEATURE_ONE Enable
-@@@@@@@@@   FEATURE_TWO Disable
+<br />@@@@@@@@@@@@  TogglzController.index()  @@@@@@@@@@@@@
+<br />@@@@@@@@@   FEATURE_ONE Enable
+<br />@@@@@@@@@   FEATURE_TWO Disable
 
 
 ##  Screen shot:
