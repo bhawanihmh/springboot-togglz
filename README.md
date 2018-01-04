@@ -1,11 +1,11 @@
 # springboot-togglz
 Togglz with spring boot 
 
-#### Togglz console
+## Togglz console
 http://localhost:8090/togglz/index
 
 
-### Togglz application
+## Togglz application
 http://localhost:8090/togglztest/index
 
 
